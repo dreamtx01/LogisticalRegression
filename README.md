@@ -1,5 +1,5 @@
 ## What factors contribute to a home team winning an NCAA basketball game?
-(https://github.com/dreamtx01/NCAA-Men-Basketball/blob/master/Image/NCAAteam.png)
+![](https://github.com/dreamtx01/NCAA-Men-Basketball/blob/master/Image/NCAAteam.png)
 
 ## Executive Summary
 
