@@ -19,6 +19,8 @@ A logistic regression algorithm was then used to build a model, predicting wheth
 
 
 ![](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Image/model_performance.png)
+
+
 The results for the capstone show that :
 
 Home court does give an advantage in basketball games played in the NCAA.
