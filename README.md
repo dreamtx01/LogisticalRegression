@@ -28,7 +28,7 @@ Detailed report of the capstone can be seen in the github link below
 
 [Table of Contents](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
 
-[Code]
+[Code](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Code)
 
 [Slide Presentation](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/NCAA%20Capstone%201%20Slide%20Deck.pdf)
 
