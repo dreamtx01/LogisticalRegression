@@ -22,6 +22,26 @@ The results for the capstone show that :
 Home court does give an advantage in basketball games played in the NCAA.
 When using features selected for the model the logistic regression algorithm predicted up to  sixty-nine percent accuracy for home games winning a basket ball game.
 
+Detailed report of the capstone can be seen in the github link below 
+
+[NCAA Men's Basketball](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
+
+[Table of Contents]
+
+[Introduction]
+
+[Data Wrangling]
+
+[Exploratory Data Analysis]
+
+[Milestone Report]
+
+[Machine Learning Model]
+
+[Final Report]
+
+
+
 
  
 
