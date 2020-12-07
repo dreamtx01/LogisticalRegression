@@ -38,7 +38,7 @@ Detailed report of the capstone can be seen in the github link below
 
 [Machine Learning Model]
 
-[Final Report]
+[Final Report](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/NCAA_Capstone_1_Final_Report.pdf)
 
 
 
