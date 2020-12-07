@@ -18,7 +18,7 @@ The dataset used for the regular season matches is for the years 2003 -2019. Thi
 A logistic regression algorithm was then used to build a model, predicting whether a match finishes 0 (home win) or 1 (away win) given input derived from these game statistics.
 
 
-![](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Image/model_performance.png)
+![](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Image/Test_Data.png)
 
 
 The results for the capstone show that :
