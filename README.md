@@ -26,7 +26,7 @@ Detailed report of the capstone can be seen in the github link below
 
 [NCAA Men's Basketball](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
 
-[Table of Contents]
+[Table of Contents](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
 
 [Introduction]
 
