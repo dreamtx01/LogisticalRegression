@@ -15,7 +15,7 @@ The dataset used for the regular season matches is for the years 2003 -2019. Thi
 ![](Image/Image%2011-16-20%20at%2010.31%20AM.jpg)
 
 
-A logistic regression algorithm was then used to build a model, predicting whether a match finishes 0 (home win) or 1 (away win) given input derived from these game statistics.
+A logistic regression algorithm was then used to build a model, predicting whether a match finishes 0 (home win) or 1 (away win) given input derived from in game statistics.
 
 
 ![](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Image/Test_Data.png)
@@ -23,8 +23,8 @@ A logistic regression algorithm was then used to build a model, predicting wheth
 
 The results for the capstone show that :
 
-Home court does give an advantage in basketball games played in the NCAA.
-When using features selected for the model the logistic regression algorithm predicted up to  sixty-nine percent accuracy for home games winning a basketball game.
+* Home court does give an advantage in basketball games played in the NCAA.
+* The logistic regression algorithm predicted up to sixty-nine percent accuracy for home games winning a basketball game.
 
 Links to the report, code, presentation and machine learning model can be seen in the link below.
 
