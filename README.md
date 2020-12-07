@@ -30,11 +30,7 @@ Detailed report of the capstone can be seen in the github link below
 
 [Code]
 
-[Data Wrangling]
-
-[Exploratory Data Analysis]
-
-
+[Slide Presentation](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/NCAA%20Capstone%201%20Slide%20Deck.pdf)
 
 [Machine Learning Model](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/Machine%20Learning%20.pdf)
 
