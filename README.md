@@ -24,9 +24,7 @@ When using features selected for the model the logistic regression algorithm pre
 
 Links to the report, code, presentation and machine learning model can be seen in the link below.
 
-[NCAA Men's Basketball Report](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
-
-[Table of Contents](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
+[NCAA Men's Basketball PDF Reports](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
 
 [Code](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Code)
 
