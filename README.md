@@ -28,15 +28,15 @@ Detailed report of the capstone can be seen in the github link below
 
 [Table of Contents](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201/Documents)
 
-[Introduction]
+[Code]
 
 [Data Wrangling]
 
 [Exploratory Data Analysis]
 
-[Milestone Report]
 
-[Machine Learning Model]
+
+[Machine Learning Model](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/Machine%20Learning%20.pdf)
 
 [Final Report](https://github.com/dreamtx01/Springboard/blob/master/Folders/Capstone%20Project%201/Documents/NCAA_Capstone_1_Final_Report.pdf)
 
